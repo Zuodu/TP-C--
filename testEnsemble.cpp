@@ -170,9 +170,9 @@ int main() {
 	//testConstructeurDefaut();
 	//testConstructeur2();
 	//testEstEgal();
-	testEstInclus();
+	//testEstInclus();
 	//testAjouter();
 	//testAjuster();
-	//testRetirer();
+	testRetirer();
 	return 0;
 }
