@@ -256,6 +256,7 @@ int* Ensemble::EnleveDoublons(int tab[], int taille)
 	}
 	verifTable[taille] = current;
 	return verifTable;
+
 }
 
 void Ensemble::TriBulle(int *t, int current) {
